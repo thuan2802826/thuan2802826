@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Thuan</h1>
   
   <a href="https://github.com/thuan2802826">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&width=500&lines=Linux+Enthusiast+🐧;Open+Source+Contributor+🚀;Cross-Platform+Optimization+Explorer+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&width=500&lines=Linux+Enthusiast+🐧;Open+Source+Contributor+🚀;System+Optimization+Explorer+⚡" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -47,9 +47,11 @@
 
 ---
 
-### 📊 GitHub Activity Streak
+### 📊 GitHub Activity & Stats
 
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thuan2802826&show_icons=true&theme=tokyonight&hide_border=true" alt="Thuan's GitHub Stats" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=thuan2802826&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
