@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Thuan</h1>
   
   <a href="https://github.com/thuan2802826">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&width=500&lines=Linux+Enthusiast+🐧;Open+Source+Contributor+🚀;System+Optimization+Explorer+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&width=550&lines=Listening+to+lo-fi+%26+writing+clean+code+🎧;Coding+in+my+own+peaceful+rhythm+☕;Linux+Enthusiast+%26+Open+Source+Explorer+🐧" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,12 +14,12 @@
 
 ---
 
-### 🚀 About Me
+### ☕ About Me
 
-- 🔭 Passionate about **Linux desktop systems, performance optimization, and open source tools**.
-- 🛠️ Actively contributing to cross-platform software and native Linux integrations.
+- 🎧 Passionate about **minimalism, clean code, and aesthetic Linux environments**.
+- 🛠️ Writing open-source software and maintaining native cross-platform packages.
 - ⚡ **Featured Project:** Maintained native Linux packaging (`.deb`, `.AppImage`, portable) and implemented 1000x search performance fixes for [**Discord Quest Completer**](https://github.com/thuan2802826/discord-quest-completer) (140,000+ users).
-- 💬 Ask me about: **Linux Mint, Cinnamon, Shell scripting, Python, System troubleshooting**.
+- 💬 Ask me about: **Linux Mint, Cinnamon tweaks, Shell scripting, Python, System troubleshooting**.
 
 ---
 
@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>"Simplicity is the soul of efficiency." ☕</i>
 </div>
