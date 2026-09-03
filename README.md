@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Thuan</h1>
-  <h3>🐧 Linux Enthusiast | Open Source Contributor | Tech Explorer</h3>
+  
+  <a href="https://github.com/thuan2802826">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&width=500&lines=Linux+Enthusiast+🐧;Open+Source+Contributor+🚀;Cross-Platform+Optimization+Explorer+⚡" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://github.com/thuan2802826">
@@ -15,7 +18,7 @@
 
 - 🔭 Passionate about **Linux desktop systems, performance optimization, and open source tools**.
 - 🛠️ Actively contributing to cross-platform software and native Linux integrations.
-- ⚡ **Recent Contribution:** Ported native Linux packaging (`.deb`, `.AppImage`, portable) and implemented 1000x search performance fixes for [**Discord Quest Completer**](https://github.com/thuan2802826/discord-quest-completer) (140,000+ users).
+- ⚡ **Featured Project:** Maintained native Linux packaging (`.deb`, `.AppImage`, portable) and implemented 1000x search performance fixes for [**Discord Quest Completer**](https://github.com/thuan2802826/discord-quest-completer) (140,000+ users).
 - 💬 Ask me about: **Linux Mint, Cinnamon, Shell scripting, Python, System troubleshooting**.
 
 ---
@@ -44,12 +47,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuan2802826&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thuan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuan2802826&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=thuan2802826&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
