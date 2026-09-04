@@ -9,7 +9,6 @@
 
 - 🐧 Daily driving Linux (mainly Linux Mint & Ubuntu).
 - 💻 Tinkering with Python, Rust, and Bash whenever I'm free.
-- 📦 Built [**discord-quest-linux**](https://github.com/thuan2802826/discord-quest-linux) (packaged it for Linux for personal use).
 
 ---
 
