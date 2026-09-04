@@ -41,6 +41,12 @@
 ### GitHub Activity
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuan2802826/thuan2802826/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuan2802826/thuan2802826/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thuan2802826/thuan2802826/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thuan2802826&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Thuan's GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=thuan2802826&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
